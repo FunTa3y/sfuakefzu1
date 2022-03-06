@@ -1,0 +1,11 @@
+{
+    "token": "7b1c5559d134aa3345841103d064349514c77ef30b843e0e0cf12004bba45d18a75610fdf8821d48a05d3",
+    "owm_api_key": "eddf5ef6270b41847bb9836dfc6d56ab",
+    "user_id": "314119670",
+    "debug": true,
+    "prefix": "!",
+    "delete_after": 0,
+    "bomb_time": 40,
+    "send_info_in_dm": false,
+    "edit_or_send": "send"
+}

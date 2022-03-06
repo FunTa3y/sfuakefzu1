@@ -1,0 +1,18 @@
+{
+    "advancements": true,
+    "demotivator": true,
+    "quote": true,
+    "blank": true,
+    "bomb": true,
+    "code": true,
+    "weather": true,
+    "info": true,
+    "interactive_commands": true,
+    "ping": true,
+    "random_case": true,
+    "settings": true,
+    "show_config": true,
+    "rassilka": false,
+    "userinforassilka": false,
+    "help": true
+}
